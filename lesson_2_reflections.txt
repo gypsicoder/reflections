@@ -13,3 +13,7 @@ I can add the changes to staging area and compare with the last commit. If okay 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches will help when I want to do some experiment with the stable version. This will help to keep the stable version and experimental version running together.
+
+How do the diagrams help you visualize the branch structure?
+
+It helps a lot to easily understand how the commits have been done in which branches.
