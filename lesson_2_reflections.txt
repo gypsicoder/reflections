@@ -9,3 +9,7 @@ Staging area is a subset of working directory. Staging area define which files w
 How can you use the staging area to make sure you have one commit per logical change?
 
 I can add the changes to staging area and compare with the last commit. If okay then I can commit the staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches will help when I want to do some experiment with the stable version. This will help to keep the stable version and experimental version running together.
