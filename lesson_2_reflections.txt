@@ -5,3 +5,7 @@ It creates a directory named .git. We need it to track history of the files in t
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area is a subset of working directory. Staging area define which files we want to update in repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can add the changes to staging area and compare with the last commit. If okay then I can commit the staging area.
