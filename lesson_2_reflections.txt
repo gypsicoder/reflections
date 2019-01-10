@@ -17,3 +17,8 @@ Branches will help when I want to do some experiment with the stable version. Th
 How do the diagrams help you visualize the branch structure?
 
 It helps a lot to easily understand how the commits have been done in which branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Update changes of the two branches from where those branches divided.
+
