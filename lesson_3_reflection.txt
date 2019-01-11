@@ -11,3 +11,8 @@ Fork clone the repository in github only. Clone can be both in remote and local.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 To check whether there is change in same location and thus resolve conflicts if needed.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+If changes are in same file then we can change on that file one after another. And if we change in different file then we can change simultaneously and update the files in all person's working directory. It will take more time than using Git or GitHub.
