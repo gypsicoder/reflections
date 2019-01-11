@@ -16,3 +16,7 @@ To check whether there is change in same location and thus resolve conflicts if 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 If changes are in same file then we can change on that file one after another. And if we change in different file then we can change simultaneously and update the files in all person's working directory. It will take more time than using Git or GitHub.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I will create a separate branch when there are other collaborators who also can change on the same file. It will keep the running version safe from the changes and conflicts. 
